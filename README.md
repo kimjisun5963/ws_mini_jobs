@@ -1,6 +1,6 @@
 # 💼 1차 mini project - 휴먼 클라우드 웹(잡스)
 
-![1번이미지](https://github.com/kimjisun5963/shoppingMall/blob/main/0-1.PNG)
+![1번이미지](https://github.com/kimjisun5963/ws_mini_jobs/blob/master/1-1.PNG)
 
 - **소개**
 
